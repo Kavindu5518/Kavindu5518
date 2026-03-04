@@ -103,19 +103,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindu2015n&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu2015n&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu2015n&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavindu2015n&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
