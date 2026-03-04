@@ -67,43 +67,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🍽️ Canteen Management System *(Ongoing)*
-> Automated Canteen Management System with Online Transitions & Stock Prediction
-
-- 🖥️ **Frontend:** React, HTML, CSS, JavaScript
-- ⚙️ **Backend & DB:** Next.js + Firebase
-- 💳 Features: Online Payment, Stock Level Prediction, Streamlined Operations
-
----
-
-### ⚖️ Online Lawyer Connect System *(Completed)*
-> A platform connecting users with lawyers featuring live chat and ratings
-
-- 📱 Built with **Flutter (Dart)**
-- 🔥 **Database:** FireStore | **Backend:** Firebase
-- 💬 Features: Online Lawyer Booking, Lawyer Rating, Live Chat
-
----
-
-### 🏨 Ashasha Villa Official Website *(Completed)*
-> Official website developed for Ashasha Villa
-
-- 🛠️ **Tech:** HTML, CSS, JavaScript
-- 👥 Developed as a group project
-
----
-
-### 🏩 Hotel AYOWA Website *(Completed)*
-> Responsive website for Hotel AYOWA
-
-- 🛠️ **Tech:** HTML, CSS, JavaScript
-
----
-
 ## 🎓 Education
 
 | Degree / Course | Institution | Period |
